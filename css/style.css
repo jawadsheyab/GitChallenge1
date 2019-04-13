@@ -1,0 +1,37 @@
+body { font-family: Arial, Tahoma }
+
+.title {
+    float: left;
+    padding: 15px 56% 15px 30px;
+    font-size: 30px;
+    color: #FFF;
+    background-color: brown
+}
+
+.menu {
+    float: right;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    display: block;
+    padding: 26px;
+    background-color: brown
+}
+
+.menu li {
+    display: inline
+}
+
+.menu li a {
+    padding: 0 15px;
+    text-decoration: none;
+    color: #FFF;
+}
+
+img {
+    background-size: cover;
+    background-position: center;
+    width: 1349px;
+    length: 1150px
+}
